@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Chelipa Motos",
+  "description": "Showroom premium de motos, compra, venda e financiamento em Panambi, RS - Consultoria de Vendas Guh Veiga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
